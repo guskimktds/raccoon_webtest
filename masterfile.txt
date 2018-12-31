@@ -1,3 +1,5 @@
 마스터 파일입니다.
 
 raccoon_webtest 를 가져와서 수정함
+
+개발자 수정본을 가져와서 merge 하고 최종본을 수정해서 remote repo 로 push
